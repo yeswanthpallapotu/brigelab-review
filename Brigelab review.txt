@@ -1,0 +1,11 @@
+Psudo code for leap year.
+
+If the year is divisible by 4,400, it is a leap year.
+If the year is not divisible by 400, but is divisible by 100, it is not a leap year.
+
+
+Psudo code to check two number are palindrome or not.
+
+Declare two variables,one stores the given number, and the other stores the reversed number.
+Run the do-while loop until the number of digits in the reversed number are equal to the number of digits in the given number. ...
+Check if the reversed number is equal to the given number.
